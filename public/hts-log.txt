@@ -1,0 +1,38 @@
+not_perfect_team3.49-2+htsswf+htsjava launched on Fri, 17 Feb 2023 09:37:08 at http://busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js--temuge-ad.doubleclick.net/*--temuge-mime:application/foobar
+not_perfect_team
+(winnot_perfect_team--temuge-qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f--temuge-F "Mozilla/4.5 (compatible; not_perfect_team 3.0x; Windows 98)"--temuge-%F "<!-- Mirrored from %s%s by not_perfect_team Website Copier/3.x [XR&CO'2014], %s--temuge-->"--temuge-%l "en, *"--temuge-Y http://busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/--temuge-O1 "C:\Users\temug\Documents\codes\not perfect team\not_perefct_team" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js--temuge-ad.doubleclick.net/*--temuge-mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+09:44:53	Error: 	"Not Found" (404) at link busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/images/blank.gif (from busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/plugins.css)
+not_perfect_team
+09:44:53	Error: 	"Not Found" (404) at link busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/ajax-loader.gif (from busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/plugins.css)
+
+09:44:53	Error: 	"Not Found" (404) at link busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/fonts/slick.eot (from busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/plugins.css)
+
+09:44:53	Error: 	"Not Found" (404) at link busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/fonts/slick.eot? (from busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/plugins.css)
+
+09:44:53	Error: 	"Not Found" (404) at link busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/fonts/slick.woff (from busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/plugins.css)
+
+09:44:53	Error: 	"Not Found" (404) at link busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/fonts/slick.ttf (from busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/plugins.css)
+
+09:44:53	Error: 	"Not Found" (404) at link busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/fonts/slick.svg (from busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/plugins.css)
+
+09:45:00	Error: 	"Not Found" (404) at link https://www.youtube.com/img/meh7.png (from https://www.youtube.com/embed/1Q8fG0TtVAY)
+
+
+
+not_perfect_team Website Copier/3.49-2 mirror complete in 7 minutes 52 seconds : 278 links scanned, 266 files written (17357177 bytes overall) [14468456 bytes received at 30653 bytes/sec], 4054160 bytes transferred using HTTP compression in 62 files, ratio 25%, 4.6 requests per connection
+
+(8 errors, 0 warnings, 0 messages)
+

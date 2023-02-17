@@ -1,0 +1,7 @@
+# not_perfect_team Cookie File
+# This file format is compatible with Netscape cookies
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	3EGHEEXCfNg
+.youtube.com	TRUE	/	FALSE	1999999999	DEVICE_INFO	ChxOekl3TURrek1qa3pOak0zTlRRNE16WXhNUT09ENq0u58GGNq0u58G
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	bzvjx9ArmbE
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+
